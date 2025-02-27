@@ -23,7 +23,7 @@ public class Traingle extends Shape   {
 
     @Override
     public double calculater_area() {
-        return 0.5*base*height ;
+        return 3*base ;
     }
 
     @Override
